@@ -1,4 +1,4 @@
-print ("\n\n*****WELCOME TO CUSTOMER PAYMENT MANAGEMENT SYSTEM*****\n")
+print ("\n\n******WELCOME TO CUSTOMER PAYMENT MANAGEMENT SYSTEM******\n")
 
 '''
 rt=''
