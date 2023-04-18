@@ -10,11 +10,7 @@
 
 > Customer Pay Management System project is written in Python. The project file contains a python script (CPMS.py). This is a simple console based system that is very easy to understand and use. Talking about the system, it contains all the basic functions which include entering customer’s data, calculating room rent, restaurant bill, laundry bill, game bill, and total cost. In this mini project, there is no such login system. This means user can use all those available features easily without any restriction.
 
-## Install
 
-```sh
-npm install
-```
 
 ## Author
 
