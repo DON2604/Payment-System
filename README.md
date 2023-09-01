@@ -16,7 +16,7 @@
 
 👤 **Mrinmay Das**
 
-* Twitter: [@Hog12](https://twitter.com/Mrinmay32823501)
+* Twitter: [@Mrinmay](https://twitter.com/Mrinmay32823501)
 * Github: [@DON2604](https://github.com/DON2604)
 * LinkedIn: [@Mrinmay Das](https://linkedin.com/in/Mrinmay Das)
 
