@@ -3,8 +3,8 @@
   <a href="#" target="_blank">
     <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-yellow.svg" />
   </a>
-  <a href="https://twitter.com/Hog12" target="_blank">
-    <img alt="Twitter: Hog12" src="https://img.shields.io/twitter/follow/Hog12.svg?style=social" />
+  <a href="https://twitter.com/Mrinmay32823501" target="_blank">
+    <img alt="Twitter: Mrinmay" src="https://img.shields.io/twitter/follow/Hog12.svg?style=social" />
   </a>
 </p>
 
