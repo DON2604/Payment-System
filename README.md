@@ -17,7 +17,6 @@
 👤 **Mrinmay Das**
 
 * Twitter: [@Mrinmay](https://twitter.com/Mrinmay32823501)
-* Github: [@DON2604](https://github.com/DON2604)
 * LinkedIn: [@Mrinmay Das](https://www.linkedin.com/in/mrinmay-das-a88a3824b/)
 
 ## Show your support
